@@ -2,7 +2,7 @@
 
 A fan-made hero database for **Deadlock**, the MOBA from Valve. It puts each hero's scaling, win rates, matchups, and sources on one page, so you can compare heroes without opening five wikis.
 
-**Author:** GDX
+
 **Website:** [github.com/JustGDX/deadlock-wiki](https://github.com/JustGDX/deadlock-wiki)
 
 ---
@@ -142,3 +142,6 @@ Ideas and corrections are welcome. For a data correction, please include the sou
 ## Disclaimer
 
 This is a fan project. It is not affiliated with, endorsed by, or sponsored by Valve Corporation. Deadlock is a trademark of Valve. All hero names and game content belong to their respective owners.
+
+----------------
+**Author:** GDX
