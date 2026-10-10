@@ -3,7 +3,7 @@
 A fan-made hero database for **Deadlock**, the MOBA from Valve. It puts each hero's scaling, win rates, matchups, and sources on one page, so you can compare heroes without opening five wikis.
 
 
-**Website:** [github.com/JustGDX/deadlock-wiki]([https://github.com/JustGDX/deadlock-wiki](https://deadlockwiki.netlify.app/))
+**Website:** [DeadlockWiki]([[https://github.com/JustGDX/deadlock-wiki](https://deadlockwiki.netlify.app/)](https://deadlockwiki.netlify.app/))
 
 ---
 
