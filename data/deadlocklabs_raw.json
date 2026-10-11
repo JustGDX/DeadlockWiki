@@ -1,0 +1,3733 @@
+{
+ "abrams": {
+  "slug": "abrams",
+  "wr": 51.4,
+  "pr": 2.6,
+  "matches": "476,441",
+  "tier": "A",
+  "worst_sentence": "Vyper (-1.2% win rate delta), Shiv (-1.2% win rate delta), and Mo \\u0026 Krill (-0.8% win rate delta)",
+  "worst": [
+   {
+    "name": "Vyper",
+    "delta": -1.2
+   },
+   {
+    "name": "Shiv",
+    "delta": -1.2
+   },
+   {
+    "name": "Krill",
+    "delta": -0.8
+   }
+  ],
+  "syn_sentence": "Rat King (+7.6% win rate delta) and Victor (+4.5% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 7.6
+   },
+   {
+    "name": "Victor",
+    "delta": 4.5
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "solomon",
+    "enemy": "Solomon",
+    "hero": "Abrams",
+    "wr": 62.5,
+    "delta": 1.7
+   },
+   {
+    "enemy_slug": "rat-king",
+    "enemy": "Rat King",
+    "hero": "Abrams",
+    "wr": 43.6,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "haze",
+    "enemy": "Haze",
+    "hero": "Abrams",
+    "wr": 48.8,
+    "delta": 1.0
+   },
+   {
+    "enemy_slug": "sinclair",
+    "enemy": "Sinclair",
+    "hero": "Abrams",
+    "wr": 56.5,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "lady-geist",
+    "enemy": "Lady Geist",
+    "hero": "Abrams",
+    "wr": 51.1,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "calico",
+    "enemy": "Calico",
+    "hero": "Abrams",
+    "wr": 51.7,
+    "delta": 0.7
+   },
+   {
+    "enemy_slug": "mirage",
+    "enemy": "Mirage",
+    "hero": "Abrams",
+    "wr": 57.7,
+    "delta": 0.6
+   },
+   {
+    "enemy_slug": "rem",
+    "enemy": "Rem",
+    "hero": "Abrams",
+    "wr": 54.9,
+    "delta": 0.6
+   }
+  ]
+ },
+ "apollo": {
+  "slug": "apollo",
+  "wr": 50.3,
+  "pr": 2.3,
+  "matches": "417,978",
+  "tier": "A",
+  "worst_sentence": "Baba (-3.5% win rate delta), McGinnis (-1.4% win rate delta), and Dynamo (-1.3% win rate delta)",
+  "worst": [
+   {
+    "name": "Baba",
+    "delta": -3.5
+   },
+   {
+    "name": "McGinnis",
+    "delta": -1.4
+   },
+   {
+    "name": "Dynamo",
+    "delta": -1.3
+   }
+  ],
+  "syn_sentence": "Rat King (+5.3% win rate delta) and Graves (+4.4% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 5.3
+   },
+   {
+    "name": "Graves",
+    "delta": 4.4
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "vindicta",
+    "enemy": "Vindicta",
+    "hero": "Apollo",
+    "wr": 51.9,
+    "delta": 2.0
+   },
+   {
+    "enemy_slug": "seven",
+    "enemy": "Seven",
+    "hero": "Apollo",
+    "wr": 46.3,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "yamato",
+    "enemy": "Yamato",
+    "hero": "Apollo",
+    "wr": 52.4,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "lash",
+    "enemy": "Lash",
+    "hero": "Apollo",
+    "wr": 49.8,
+    "delta": 0.6
+   },
+   {
+    "enemy_slug": "paradox",
+    "enemy": "Paradox",
+    "hero": "Apollo",
+    "wr": 54.9,
+    "delta": 0.6
+   },
+   {
+    "enemy_slug": "kelvin",
+    "enemy": "Kelvin",
+    "hero": "Apollo",
+    "wr": 47.0,
+    "delta": 0.5
+   },
+   {
+    "enemy_slug": "haze",
+    "enemy": "Haze",
+    "hero": "Apollo",
+    "wr": 47.2,
+    "delta": 0.5
+   },
+   {
+    "enemy_slug": "solomon",
+    "enemy": "Solomon",
+    "hero": "Apollo",
+    "wr": 60.3,
+    "delta": 0.5
+   }
+  ]
+ },
+ "baba": {
+  "slug": "baba",
+  "wr": 47.0,
+  "pr": 0.8,
+  "matches": "142,100",
+  "tier": "C",
+  "worst_sentence": "Vindicta (-2.3% win rate delta), Haze (-2.0% win rate delta), and Wraith (-1.8% win rate delta)",
+  "worst": [
+   {
+    "name": "Vindicta",
+    "delta": -2.3
+   },
+   {
+    "name": "Haze",
+    "delta": -2.0
+   },
+   {
+    "name": "Wraith",
+    "delta": -1.8
+   }
+  ],
+  "syn_sentence": "Paige (+3.9% win rate delta) and Seven (+2.3% win rate delta)",
+  "synergy": [
+   {
+    "name": "Paige",
+    "delta": 3.9
+   },
+   {
+    "name": "Seven",
+    "delta": 2.3
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "warden",
+    "enemy": "Warden",
+    "hero": "Baba",
+    "wr": 53.4,
+    "delta": 5.9
+   },
+   {
+    "enemy_slug": "solomon",
+    "enemy": "Solomon",
+    "hero": "Baba",
+    "wr": 61.0,
+    "delta": 4.4
+   },
+   {
+    "enemy_slug": "victor",
+    "enemy": "Victor",
+    "hero": "Baba",
+    "wr": 45.8,
+    "delta": 3.9
+   },
+   {
+    "enemy_slug": "mo-and-krill",
+    "enemy": "Mo & Krill",
+    "hero": "Baba",
+    "wr": 48.8,
+    "delta": 3.5
+   },
+   {
+    "enemy_slug": "apollo",
+    "enemy": "Apollo",
+    "hero": "Baba",
+    "wr": 50.2,
+    "delta": 3.5
+   },
+   {
+    "enemy_slug": "viscous",
+    "enemy": "Viscous",
+    "hero": "Baba",
+    "wr": 53.4,
+    "delta": 2.8
+   },
+   {
+    "enemy_slug": "graves",
+    "enemy": "Graves",
+    "hero": "Baba",
+    "wr": 43.4,
+    "delta": 2.8
+   },
+   {
+    "enemy_slug": "yamato",
+    "enemy": "Yamato",
+    "hero": "Baba",
+    "wr": 51.1,
+    "delta": 2.8
+   }
+  ]
+ },
+ "bebop": {
+  "slug": "bebop",
+  "wr": 47.1,
+  "pr": 3.7,
+  "matches": "679,476",
+  "tier": "B",
+  "worst_sentence": "Solomon (-5.6% win rate delta), Ivy (-1.7% win rate delta), and Viscous (-1.1% win rate delta)",
+  "worst": [
+   {
+    "name": "Solomon",
+    "delta": -5.6
+   },
+   {
+    "name": "Ivy",
+    "delta": -1.7
+   },
+   {
+    "name": "Viscous",
+    "delta": -1.1
+   }
+  ],
+  "syn_sentence": "Rat King (+2.7% win rate delta) and Graves (+2.5% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 2.7
+   },
+   {
+    "name": "Graves",
+    "delta": 2.5
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "mo-and-krill",
+    "enemy": "Mo & Krill",
+    "hero": "Bebop",
+    "wr": 46.3,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "graves",
+    "enemy": "Graves",
+    "hero": "Bebop",
+    "wr": 41.5,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "the-doorman",
+    "enemy": "The Doorman",
+    "hero": "Bebop",
+    "wr": 52.1,
+    "delta": 0.7
+   },
+   {
+    "enemy_slug": "celeste",
+    "enemy": "Celeste",
+    "hero": "Bebop",
+    "wr": 48.0,
+    "delta": 0.6
+   },
+   {
+    "enemy_slug": "grey-talon",
+    "enemy": "Grey Talon",
+    "hero": "Bebop",
+    "wr": 50.3,
+    "delta": 0.6
+   },
+   {
+    "enemy_slug": "lash",
+    "enemy": "Lash",
+    "hero": "Bebop",
+    "wr": 46.6,
+    "delta": 0.6
+   },
+   {
+    "enemy_slug": "victor",
+    "enemy": "Victor",
+    "hero": "Bebop",
+    "wr": 42.4,
+    "delta": 0.5
+   },
+   {
+    "enemy_slug": "holliday",
+    "enemy": "Holliday",
+    "hero": "Bebop",
+    "wr": 49.8,
+    "delta": 0.5
+   }
+  ]
+ },
+ "billy": {
+  "slug": "billy",
+  "wr": 48.1,
+  "pr": 2.8,
+  "matches": "501,144",
+  "tier": "B",
+  "worst_sentence": "Baba (-1.9% win rate delta), Graves (-1.0% win rate delta), and The Doorman (-0.7% win rate delta)",
+  "worst": [
+   {
+    "name": "Baba",
+    "delta": -1.9
+   },
+   {
+    "name": "Graves",
+    "delta": -1.0
+   },
+   {
+    "name": "The Doorman",
+    "delta": -0.7
+   }
+  ],
+  "syn_sentence": "Rat King (+5.5% win rate delta) and Paige (+3.8% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 5.5
+   },
+   {
+    "name": "Paige",
+    "delta": 3.8
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "vyper",
+    "enemy": "Vyper",
+    "hero": "Billy",
+    "wr": 50.7,
+    "delta": 1.6
+   },
+   {
+    "enemy_slug": "sinclair",
+    "enemy": "Sinclair",
+    "hero": "Billy",
+    "wr": 53.9,
+    "delta": 1.5
+   },
+   {
+    "enemy_slug": "rat-king",
+    "enemy": "Rat King",
+    "hero": "Billy",
+    "wr": 40.6,
+    "delta": 1.3
+   },
+   {
+    "enemy_slug": "holliday",
+    "enemy": "Holliday",
+    "hero": "Billy",
+    "wr": 51.5,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "kelvin",
+    "enemy": "Kelvin",
+    "hero": "Billy",
+    "wr": 45.3,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "calico",
+    "enemy": "Calico",
+    "hero": "Billy",
+    "wr": 48.8,
+    "delta": 1.0
+   },
+   {
+    "enemy_slug": "infernus",
+    "enemy": "Infernus",
+    "hero": "Billy",
+    "wr": 50.0,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "lash",
+    "enemy": "Lash",
+    "hero": "Billy",
+    "wr": 47.9,
+    "delta": 0.9
+   }
+  ]
+ },
+ "calico": {
+  "slug": "calico",
+  "wr": 50.3,
+  "pr": 2.0,
+  "matches": "369,226",
+  "tier": "A",
+  "worst_sentence": "Baba (-2.7% win rate delta), Holliday (-1.2% win rate delta), and Silver (-1.1% win rate delta)",
+  "worst": [
+   {
+    "name": "Baba",
+    "delta": -2.7
+   },
+   {
+    "name": "Holliday",
+    "delta": -1.2
+   },
+   {
+    "name": "Silver",
+    "delta": -1.1
+   }
+  ],
+  "syn_sentence": "Rat King (+4.6% win rate delta) and Paige (+2.7% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 4.6
+   },
+   {
+    "name": "Paige",
+    "delta": 2.7
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "seven",
+    "enemy": "Seven",
+    "hero": "Calico",
+    "wr": 46.5,
+    "delta": 1.3
+   },
+   {
+    "enemy_slug": "wraith",
+    "enemy": "Wraith",
+    "hero": "Calico",
+    "wr": 51.2,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "infernus",
+    "enemy": "Infernus",
+    "hero": "Calico",
+    "wr": 52.1,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "haze",
+    "enemy": "Haze",
+    "hero": "Calico",
+    "wr": 47.6,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "viscous",
+    "enemy": "Viscous",
+    "hero": "Calico",
+    "wr": 54.7,
+    "delta": 0.7
+   },
+   {
+    "enemy_slug": "paige",
+    "enemy": "Paige",
+    "hero": "Calico",
+    "wr": 44.8,
+    "delta": 0.5
+   },
+   {
+    "enemy_slug": "vindicta",
+    "enemy": "Vindicta",
+    "hero": "Calico",
+    "wr": 50.4,
+    "delta": 0.4
+   },
+   {
+    "enemy_slug": "grey-talon",
+    "enemy": "Grey Talon",
+    "hero": "Calico",
+    "wr": 53.3,
+    "delta": 0.4
+   }
+  ]
+ },
+ "celeste": {
+  "slug": "celeste",
+  "wr": 49.7,
+  "pr": 2.6,
+  "matches": "475,001",
+  "tier": "A",
+  "worst_sentence": "Baba (-1.8% win rate delta), Infernus (-1.2% win rate delta), and Sinclair (-0.9% win rate delta)",
+  "worst": [
+   {
+    "name": "Baba",
+    "delta": -1.8
+   },
+   {
+    "name": "Infernus",
+    "delta": -1.2
+   },
+   {
+    "name": "Sinclair",
+    "delta": -0.9
+   }
+  ],
+  "syn_sentence": "Rat King (+4.4% win rate delta) and Graves (+3.2% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 4.4
+   },
+   {
+    "name": "Graves",
+    "delta": 3.2
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "lash",
+    "enemy": "Lash",
+    "hero": "Celeste",
+    "wr": 49.7,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "holliday",
+    "enemy": "Holliday",
+    "hero": "Celeste",
+    "wr": 53.0,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "pocket",
+    "enemy": "Pocket",
+    "hero": "Celeste",
+    "wr": 54.9,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "dynamo",
+    "enemy": "Dynamo",
+    "hero": "Celeste",
+    "wr": 47.7,
+    "delta": 0.6
+   },
+   {
+    "enemy_slug": "wraith",
+    "enemy": "Wraith",
+    "hero": "Celeste",
+    "wr": 50.1,
+    "delta": 0.5
+   },
+   {
+    "enemy_slug": "yamato",
+    "enemy": "Yamato",
+    "hero": "Celeste",
+    "wr": 51.5,
+    "delta": 0.5
+   },
+   {
+    "enemy_slug": "viscous",
+    "enemy": "Viscous",
+    "hero": "Celeste",
+    "wr": 53.8,
+    "delta": 0.5
+   },
+   {
+    "enemy_slug": "paradox",
+    "enemy": "Paradox",
+    "hero": "Celeste",
+    "wr": 54.2,
+    "delta": 0.5
+   }
+  ]
+ },
+ "drifter": {
+  "slug": "drifter",
+  "wr": 50.2,
+  "pr": 3.7,
+  "matches": "674,521",
+  "tier": "A",
+  "worst_sentence": "Mo \\u0026 Krill (-1.6% win rate delta), Dynamo (-1.3% win rate delta), and Baba (-1.1% win rate delta)",
+  "worst": [
+   {
+    "name": "Krill",
+    "delta": -1.6
+   },
+   {
+    "name": "Dynamo",
+    "delta": -1.3
+   },
+   {
+    "name": "Baba",
+    "delta": -1.1
+   }
+  ],
+  "syn_sentence": "Rat King (+6.8% win rate delta) and Seven (+4.1% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 6.8
+   },
+   {
+    "name": "Seven",
+    "delta": 4.1
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "sinclair",
+    "enemy": "Sinclair",
+    "hero": "Drifter",
+    "wr": 55.8,
+    "delta": 1.3
+   },
+   {
+    "enemy_slug": "solomon",
+    "enemy": "Solomon",
+    "hero": "Drifter",
+    "wr": 61.0,
+    "delta": 1.3
+   },
+   {
+    "enemy_slug": "celeste",
+    "enemy": "Celeste",
+    "hero": "Drifter",
+    "wr": 51.4,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "haze",
+    "enemy": "Haze",
+    "hero": "Drifter",
+    "wr": 47.5,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "victor",
+    "enemy": "Victor",
+    "hero": "Drifter",
+    "wr": 45.8,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "the-doorman",
+    "enemy": "The Doorman",
+    "hero": "Drifter",
+    "wr": 55.2,
+    "delta": 0.6
+   },
+   {
+    "enemy_slug": "apollo",
+    "enemy": "Apollo",
+    "hero": "Drifter",
+    "wr": 50.4,
+    "delta": 0.5
+   },
+   {
+    "enemy_slug": "rat-king",
+    "enemy": "Rat King",
+    "hero": "Drifter",
+    "wr": 41.9,
+    "delta": 0.5
+   }
+  ]
+ },
+ "dynamo": {
+  "slug": "dynamo",
+  "wr": 52.5,
+  "pr": 2.4,
+  "matches": "445,533",
+  "tier": "A",
+  "worst_sentence": "Solomon (-5.2% win rate delta), Victor (-1.2% win rate delta), and Vindicta (-1.0% win rate delta)",
+  "worst": [
+   {
+    "name": "Solomon",
+    "delta": -5.2
+   },
+   {
+    "name": "Victor",
+    "delta": -1.2
+   },
+   {
+    "name": "Vindicta",
+    "delta": -1.0
+   }
+  ],
+  "syn_sentence": "Paige (+7.5% win rate delta) and Rat King (+6.7% win rate delta)",
+  "synergy": [
+   {
+    "name": "Paige",
+    "delta": 7.5
+   },
+   {
+    "name": "Rat King",
+    "delta": 6.7
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "silver",
+    "enemy": "Silver",
+    "hero": "Dynamo",
+    "wr": 58.2,
+    "delta": 1.7
+   },
+   {
+    "enemy_slug": "holliday",
+    "enemy": "Holliday",
+    "hero": "Dynamo",
+    "wr": 56.2,
+    "delta": 1.4
+   },
+   {
+    "enemy_slug": "apollo",
+    "enemy": "Apollo",
+    "hero": "Dynamo",
+    "wr": 53.6,
+    "delta": 1.3
+   },
+   {
+    "enemy_slug": "drifter",
+    "enemy": "Drifter",
+    "hero": "Dynamo",
+    "wr": 53.6,
+    "delta": 1.3
+   },
+   {
+    "enemy_slug": "venator",
+    "enemy": "Venator",
+    "hero": "Dynamo",
+    "wr": 57.4,
+    "delta": 1.2
+   },
+   {
+    "enemy_slug": "haze",
+    "enemy": "Haze",
+    "hero": "Dynamo",
+    "wr": 49.8,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "baba",
+    "enemy": "Baba",
+    "hero": "Dynamo",
+    "wr": 56.3,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "lash",
+    "enemy": "Lash",
+    "hero": "Dynamo",
+    "wr": 52.2,
+    "delta": 0.8
+   }
+  ]
+ },
+ "graves": {
+  "slug": "graves",
+  "wr": 56.5,
+  "pr": 3.4,
+  "matches": "627,050",
+  "tier": "S+",
+  "worst_sentence": "McGinnis (-3.0% win rate delta), Baba (-2.8% win rate delta), and Rat King (-1.9% win rate delta)",
+  "worst": [
+   {
+    "name": "McGinnis",
+    "delta": -3.0
+   },
+   {
+    "name": "Baba",
+    "delta": -2.8
+   },
+   {
+    "name": "Rat King",
+    "delta": -1.9
+   }
+  ],
+  "syn_sentence": "Rat King (+7.0% win rate delta) and Paige (+6.8% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 7.0
+   },
+   {
+    "name": "Paige",
+    "delta": 6.8
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "silver",
+    "enemy": "Silver",
+    "hero": "Graves",
+    "wr": 61.9,
+    "delta": 1.5
+   },
+   {
+    "enemy_slug": "paradox",
+    "enemy": "Paradox",
+    "hero": "Graves",
+    "wr": 61.8,
+    "delta": 1.4
+   },
+   {
+    "enemy_slug": "shiv",
+    "enemy": "Shiv",
+    "hero": "Graves",
+    "wr": 62.0,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "billy",
+    "enemy": "Billy",
+    "hero": "Graves",
+    "wr": 59.3,
+    "delta": 1.0
+   },
+   {
+    "enemy_slug": "apollo",
+    "enemy": "Apollo",
+    "hero": "Graves",
+    "wr": 57.1,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "mirage",
+    "enemy": "Mirage",
+    "hero": "Graves",
+    "wr": 63.0,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "yamato",
+    "enemy": "Yamato",
+    "hero": "Graves",
+    "wr": 58.6,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "vyper",
+    "enemy": "Vyper",
+    "hero": "Graves",
+    "wr": 58.2,
+    "delta": 0.8
+   }
+  ]
+ },
+ "grey-talon": {
+  "slug": "grey-talon",
+  "wr": 47.4,
+  "pr": 1.4,
+  "matches": "257,616",
+  "tier": "B",
+  "worst_sentence": "McGinnis (-2.3% win rate delta), Kelvin (-1.6% win rate delta), and Vyper (-1.2% win rate delta)",
+  "worst": [
+   {
+    "name": "McGinnis",
+    "delta": -2.3
+   },
+   {
+    "name": "Kelvin",
+    "delta": -1.6
+   },
+   {
+    "name": "Vyper",
+    "delta": -1.2
+   }
+  ],
+  "syn_sentence": "Graves (+3.2% win rate delta) and Rat King (+2.3% win rate delta)",
+  "synergy": [
+   {
+    "name": "Graves",
+    "delta": 3.2
+   },
+   {
+    "name": "Rat King",
+    "delta": 2.3
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "solomon",
+    "enemy": "Solomon",
+    "hero": "Grey Talon",
+    "wr": 61.9,
+    "delta": 4.9
+   },
+   {
+    "enemy_slug": "vindicta",
+    "enemy": "Vindicta",
+    "hero": "Grey Talon",
+    "wr": 48.2,
+    "delta": 1.2
+   },
+   {
+    "enemy_slug": "pocket",
+    "enemy": "Pocket",
+    "hero": "Grey Talon",
+    "wr": 52.8,
+    "delta": 1.0
+   },
+   {
+    "enemy_slug": "mo-and-krill",
+    "enemy": "Mo & Krill",
+    "hero": "Grey Talon",
+    "wr": 46.6,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "apollo",
+    "enemy": "Apollo",
+    "hero": "Grey Talon",
+    "wr": 47.8,
+    "delta": 0.7
+   },
+   {
+    "enemy_slug": "lady-geist",
+    "enemy": "Lady Geist",
+    "hero": "Grey Talon",
+    "wr": 47.1,
+    "delta": 0.7
+   },
+   {
+    "enemy_slug": "viscous",
+    "enemy": "Viscous",
+    "hero": "Grey Talon",
+    "wr": 51.6,
+    "delta": 0.6
+   },
+   {
+    "enemy_slug": "paige",
+    "enemy": "Paige",
+    "hero": "Grey Talon",
+    "wr": 41.9,
+    "delta": 0.4
+   }
+  ]
+ },
+ "haze": {
+  "slug": "haze",
+  "wr": 53.6,
+  "pr": 4.3,
+  "matches": "782,429",
+  "tier": "S",
+  "worst_sentence": "Vyper (-1.9% win rate delta), Mina (-1.5% win rate delta), and Venator (-1.5% win rate delta)",
+  "worst": [
+   {
+    "name": "Vyper",
+    "delta": -1.9
+   },
+   {
+    "name": "Mina",
+    "delta": -1.5
+   },
+   {
+    "name": "Venator",
+    "delta": -1.5
+   }
+  ],
+  "syn_sentence": "Seven (+6.1% win rate delta) and Paige (+5.6% win rate delta)",
+  "synergy": [
+   {
+    "name": "Seven",
+    "delta": 6.1
+   },
+   {
+    "name": "Paige",
+    "delta": 5.6
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "baba",
+    "enemy": "Baba",
+    "hero": "Haze",
+    "wr": 58.5,
+    "delta": 2.0
+   },
+   {
+    "enemy_slug": "rat-king",
+    "enemy": "Rat King",
+    "hero": "Haze",
+    "wr": 46.1,
+    "delta": 1.5
+   },
+   {
+    "enemy_slug": "shiv",
+    "enemy": "Shiv",
+    "hero": "Haze",
+    "wr": 59.4,
+    "delta": 1.4
+   },
+   {
+    "enemy_slug": "viscous",
+    "enemy": "Viscous",
+    "hero": "Haze",
+    "wr": 58.2,
+    "delta": 1.0
+   },
+   {
+    "enemy_slug": "kelvin",
+    "enemy": "Kelvin",
+    "hero": "Haze",
+    "wr": 50.7,
+    "delta": 1.0
+   },
+   {
+    "enemy_slug": "mo-and-krill",
+    "enemy": "Mo & Krill",
+    "hero": "Haze",
+    "wr": 52.7,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "seven",
+    "enemy": "Seven",
+    "hero": "Haze",
+    "wr": 49.1,
+    "delta": 0.7
+   },
+   {
+    "enemy_slug": "sinclair",
+    "enemy": "Sinclair",
+    "hero": "Haze",
+    "wr": 58.4,
+    "delta": 0.6
+   }
+  ]
+ },
+ "holliday": {
+  "slug": "holliday",
+  "wr": 47.7,
+  "pr": 1.8,
+  "matches": "335,763",
+  "tier": "B",
+  "worst_sentence": "McGinnis (-2.4% win rate delta), Victor (-1.8% win rate delta), and Dynamo (-1.4% win rate delta)",
+  "worst": [
+   {
+    "name": "McGinnis",
+    "delta": -2.4
+   },
+   {
+    "name": "Victor",
+    "delta": -1.8
+   },
+   {
+    "name": "Dynamo",
+    "delta": -1.4
+   }
+  ],
+  "syn_sentence": "Rat King (+3.4% win rate delta) and Graves (+2.9% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 3.4
+   },
+   {
+    "name": "Graves",
+    "delta": 2.9
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "calico",
+    "enemy": "Calico",
+    "hero": "Holliday",
+    "wr": 48.6,
+    "delta": 1.2
+   },
+   {
+    "enemy_slug": "haze",
+    "enemy": "Haze",
+    "hero": "Holliday",
+    "wr": 45.1,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "grey-talon",
+    "enemy": "Grey Talon",
+    "hero": "Holliday",
+    "wr": 50.9,
+    "delta": 0.6
+   },
+   {
+    "enemy_slug": "drifter",
+    "enemy": "Drifter",
+    "hero": "Holliday",
+    "wr": 48.0,
+    "delta": 0.6
+   },
+   {
+    "enemy_slug": "shiv",
+    "enemy": "Shiv",
+    "hero": "Holliday",
+    "wr": 52.7,
+    "delta": 0.5
+   },
+   {
+    "enemy_slug": "vindicta",
+    "enemy": "Vindicta",
+    "hero": "Holliday",
+    "wr": 47.7,
+    "delta": 0.3
+   },
+   {
+    "enemy_slug": "warden",
+    "enemy": "Warden",
+    "hero": "Holliday",
+    "wr": 48.5,
+    "delta": 0.2
+   },
+   {
+    "enemy_slug": "baba",
+    "enemy": "Baba",
+    "hero": "Holliday",
+    "wr": 50.9,
+    "delta": 0.2
+   }
+  ]
+ },
+ "infernus": {
+  "slug": "infernus",
+  "wr": 49.0,
+  "pr": 3.7,
+  "matches": "667,803",
+  "tier": "A",
+  "worst_sentence": "Solomon (-2.2% win rate delta), Billy (-0.9% win rate delta), and Calico (-0.8% win rate delta)",
+  "worst": [
+   {
+    "name": "Solomon",
+    "delta": -2.2
+   },
+   {
+    "name": "Billy",
+    "delta": -0.9
+   },
+   {
+    "name": "Calico",
+    "delta": -0.8
+   }
+  ],
+  "syn_sentence": "Rat King (+3.6% win rate delta) and Graves (+3.1% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 3.6
+   },
+   {
+    "name": "Graves",
+    "delta": 3.1
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "kelvin",
+    "enemy": "Kelvin",
+    "hero": "Infernus",
+    "wr": 46.9,
+    "delta": 1.8
+   },
+   {
+    "enemy_slug": "seven",
+    "enemy": "Seven",
+    "hero": "Infernus",
+    "wr": 45.5,
+    "delta": 1.6
+   },
+   {
+    "enemy_slug": "mo-and-krill",
+    "enemy": "Mo & Krill",
+    "hero": "Infernus",
+    "wr": 48.6,
+    "delta": 1.3
+   },
+   {
+    "enemy_slug": "mcginnis",
+    "enemy": "McGinnis",
+    "hero": "Infernus",
+    "wr": 51.7,
+    "delta": 1.3
+   },
+   {
+    "enemy_slug": "celeste",
+    "enemy": "Celeste",
+    "hero": "Infernus",
+    "wr": 50.5,
+    "delta": 1.2
+   },
+   {
+    "enemy_slug": "warden",
+    "enemy": "Warden",
+    "hero": "Infernus",
+    "wr": 50.7,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "victor",
+    "enemy": "Victor",
+    "hero": "Infernus",
+    "wr": 44.8,
+    "delta": 1.0
+   },
+   {
+    "enemy_slug": "lady-geist",
+    "enemy": "Lady Geist",
+    "hero": "Infernus",
+    "wr": 48.8,
+    "delta": 0.8
+   }
+  ]
+ },
+ "ivy": {
+  "slug": "ivy",
+  "wr": 53.0,
+  "pr": 2.3,
+  "matches": "419,268",
+  "tier": "A",
+  "worst_sentence": "Solomon (-5.0% win rate delta), Vyper (-1.4% win rate delta), and Rem (-1.4% win rate delta)",
+  "worst": [
+   {
+    "name": "Solomon",
+    "delta": -5.0
+   },
+   {
+    "name": "Vyper",
+    "delta": -1.4
+   },
+   {
+    "name": "Rem",
+    "delta": -1.4
+   }
+  ],
+  "syn_sentence": "Rat King (+7.2% win rate delta) and Graves (+5.2% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 7.2
+   },
+   {
+    "name": "Graves",
+    "delta": 5.2
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "bebop",
+    "enemy": "Bebop",
+    "hero": "Ivy",
+    "wr": 57.6,
+    "delta": 1.7
+   },
+   {
+    "enemy_slug": "yamato",
+    "enemy": "Yamato",
+    "hero": "Ivy",
+    "wr": 55.4,
+    "delta": 1.0
+   },
+   {
+    "enemy_slug": "lash",
+    "enemy": "Lash",
+    "hero": "Ivy",
+    "wr": 52.9,
+    "delta": 1.0
+   },
+   {
+    "enemy_slug": "paige",
+    "enemy": "Paige",
+    "hero": "Ivy",
+    "wr": 47.7,
+    "delta": 0.7
+   },
+   {
+    "enemy_slug": "graves",
+    "enemy": "Graves",
+    "hero": "Ivy",
+    "wr": 47.1,
+    "delta": 0.6
+   },
+   {
+    "enemy_slug": "drifter",
+    "enemy": "Drifter",
+    "hero": "Ivy",
+    "wr": 53.3,
+    "delta": 0.5
+   },
+   {
+    "enemy_slug": "holliday",
+    "enemy": "Holliday",
+    "hero": "Ivy",
+    "wr": 55.7,
+    "delta": 0.4
+   },
+   {
+    "enemy_slug": "rat-king",
+    "enemy": "Rat King",
+    "hero": "Ivy",
+    "wr": 44.6,
+    "delta": 0.4
+   }
+  ]
+ },
+ "kelvin": {
+  "slug": "kelvin",
+  "wr": 53.9,
+  "pr": 1.5,
+  "matches": "274,659",
+  "tier": "A",
+  "worst_sentence": "Infernus (-1.8% win rate delta), Vyper (-1.4% win rate delta), and Viscous (-1.4% win rate delta)",
+  "worst": [
+   {
+    "name": "Infernus",
+    "delta": -1.8
+   },
+   {
+    "name": "Vyper",
+    "delta": -1.4
+   },
+   {
+    "name": "Viscous",
+    "delta": -1.4
+   }
+  ],
+  "syn_sentence": "Rat King (+7.6% win rate delta) and Paige (+5.3% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 7.6
+   },
+   {
+    "name": "Paige",
+    "delta": 5.3
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "grey-talon",
+    "enemy": "Grey Talon",
+    "hero": "Kelvin",
+    "wr": 58.1,
+    "delta": 1.6
+   },
+   {
+    "enemy_slug": "lady-geist",
+    "enemy": "Lady Geist",
+    "hero": "Kelvin",
+    "wr": 54.2,
+    "delta": 1.4
+   },
+   {
+    "enemy_slug": "the-doorman",
+    "enemy": "The Doorman",
+    "hero": "Kelvin",
+    "wr": 59.5,
+    "delta": 1.3
+   },
+   {
+    "enemy_slug": "solomon",
+    "enemy": "Solomon",
+    "hero": "Kelvin",
+    "wr": 64.4,
+    "delta": 1.3
+   },
+   {
+    "enemy_slug": "lash",
+    "enemy": "Lash",
+    "hero": "Kelvin",
+    "wr": 53.8,
+    "delta": 1.0
+   },
+   {
+    "enemy_slug": "pocket",
+    "enemy": "Pocket",
+    "hero": "Kelvin",
+    "wr": 59.3,
+    "delta": 1.0
+   },
+   {
+    "enemy_slug": "graves",
+    "enemy": "Graves",
+    "hero": "Kelvin",
+    "wr": 48.2,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "mo-and-krill",
+    "enemy": "Mo & Krill",
+    "hero": "Kelvin",
+    "wr": 53.0,
+    "delta": 0.8
+   }
+  ]
+ },
+ "lady-geist": {
+  "slug": "lady-geist",
+  "wr": 51.1,
+  "pr": 2.4,
+  "matches": "430,141",
+  "tier": "A",
+  "worst_sentence": "Baba (-2.4% win rate delta), Kelvin (-1.4% win rate delta), and Shiv (-1.1% win rate delta)",
+  "worst": [
+   {
+    "name": "Baba",
+    "delta": -2.4
+   },
+   {
+    "name": "Kelvin",
+    "delta": -1.4
+   },
+   {
+    "name": "Shiv",
+    "delta": -1.1
+   }
+  ],
+  "syn_sentence": "Rat King (+5.2% win rate delta) and Haze (+4.3% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 5.2
+   },
+   {
+    "name": "Haze",
+    "delta": 4.3
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "solomon",
+    "enemy": "Solomon",
+    "hero": "Lady Geist",
+    "wr": 62.0,
+    "delta": 1.5
+   },
+   {
+    "enemy_slug": "the-doorman",
+    "enemy": "The Doorman",
+    "hero": "Lady Geist",
+    "wr": 56.9,
+    "delta": 1.5
+   },
+   {
+    "enemy_slug": "graves",
+    "enemy": "Graves",
+    "hero": "Lady Geist",
+    "wr": 46.0,
+    "delta": 1.4
+   },
+   {
+    "enemy_slug": "seven",
+    "enemy": "Seven",
+    "hero": "Lady Geist",
+    "wr": 47.0,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "paradox",
+    "enemy": "Paradox",
+    "hero": "Lady Geist",
+    "wr": 56.2,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "rat-king",
+    "enemy": "Rat King",
+    "hero": "Lady Geist",
+    "wr": 43.2,
+    "delta": 1.0
+   },
+   {
+    "enemy_slug": "mcginnis",
+    "enemy": "McGinnis",
+    "hero": "Lady Geist",
+    "wr": 53.3,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "warden",
+    "enemy": "Warden",
+    "hero": "Lady Geist",
+    "wr": 52.5,
+    "delta": 0.9
+   }
+  ]
+ },
+ "lash": {
+  "slug": "lash",
+  "wr": 51.1,
+  "pr": 3.7,
+  "matches": "671,742",
+  "tier": "A",
+  "worst_sentence": "Rat King (-1.7% win rate delta), McGinnis (-1.3% win rate delta), and Yamato (-1.2% win rate delta)",
+  "worst": [
+   {
+    "name": "Rat King",
+    "delta": -1.7
+   },
+   {
+    "name": "McGinnis",
+    "delta": -1.3
+   },
+   {
+    "name": "Yamato",
+    "delta": -1.2
+   }
+  ],
+  "syn_sentence": "Graves (+4.4% win rate delta) and Seven (+3.8% win rate delta)",
+  "synergy": [
+   {
+    "name": "Graves",
+    "delta": 4.4
+   },
+   {
+    "name": "Seven",
+    "delta": 3.8
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "paige",
+    "enemy": "Paige",
+    "hero": "Lash",
+    "wr": 45.9,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "baba",
+    "enemy": "Baba",
+    "hero": "Lash",
+    "wr": 54.7,
+    "delta": 0.7
+   },
+   {
+    "enemy_slug": "drifter",
+    "enemy": "Drifter",
+    "hero": "Lash",
+    "wr": 51.5,
+    "delta": 0.6
+   },
+   {
+    "enemy_slug": "warden",
+    "enemy": "Warden",
+    "hero": "Lash",
+    "wr": 52.2,
+    "delta": 0.6
+   },
+   {
+    "enemy_slug": "graves",
+    "enemy": "Graves",
+    "hero": "Lash",
+    "wr": 45.1,
+    "delta": 0.6
+   },
+   {
+    "enemy_slug": "mirage",
+    "enemy": "Mirage",
+    "hero": "Lash",
+    "wr": 57.3,
+    "delta": 0.5
+   },
+   {
+    "enemy_slug": "grey-talon",
+    "enemy": "Grey Talon",
+    "hero": "Lash",
+    "wr": 54.1,
+    "delta": 0.4
+   },
+   {
+    "enemy_slug": "holliday",
+    "enemy": "Holliday",
+    "hero": "Lash",
+    "wr": 53.7,
+    "delta": 0.4
+   }
+  ]
+ },
+ "mcginnis": {
+  "slug": "mcginnis",
+  "wr": 48.6,
+  "pr": 1.3,
+  "matches": "232,128",
+  "tier": "B",
+  "worst_sentence": "Seven (-1.9% win rate delta), Baba (-1.5% win rate delta), and Mo \\u0026 Krill (-1.3% win rate delta)",
+  "worst": [
+   {
+    "name": "Seven",
+    "delta": -1.9
+   },
+   {
+    "name": "Baba",
+    "delta": -1.5
+   },
+   {
+    "name": "Krill",
+    "delta": -1.3
+   }
+  ],
+  "syn_sentence": "Graves (+6.3% win rate delta) and Paige (+3.7% win rate delta)",
+  "synergy": [
+   {
+    "name": "Graves",
+    "delta": 6.3
+   },
+   {
+    "name": "Paige",
+    "delta": 3.7
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "solomon",
+    "enemy": "Solomon",
+    "hero": "McGinnis",
+    "wr": 71.6,
+    "delta": 13.4
+   },
+   {
+    "enemy_slug": "graves",
+    "enemy": "Graves",
+    "hero": "McGinnis",
+    "wr": 45.2,
+    "delta": 3.0
+   },
+   {
+    "enemy_slug": "sinclair",
+    "enemy": "Sinclair",
+    "hero": "McGinnis",
+    "wr": 55.3,
+    "delta": 2.4
+   },
+   {
+    "enemy_slug": "holliday",
+    "enemy": "Holliday",
+    "hero": "McGinnis",
+    "wr": 53.3,
+    "delta": 2.4
+   },
+   {
+    "enemy_slug": "grey-talon",
+    "enemy": "Grey Talon",
+    "hero": "McGinnis",
+    "wr": 53.6,
+    "delta": 2.3
+   },
+   {
+    "enemy_slug": "paradox",
+    "enemy": "Paradox",
+    "hero": "McGinnis",
+    "wr": 54.1,
+    "delta": 1.4
+   },
+   {
+    "enemy_slug": "apollo",
+    "enemy": "Apollo",
+    "hero": "McGinnis",
+    "wr": 49.7,
+    "delta": 1.4
+   },
+   {
+    "enemy_slug": "pocket",
+    "enemy": "Pocket",
+    "hero": "McGinnis",
+    "wr": 54.3,
+    "delta": 1.3
+   }
+  ]
+ },
+ "mina": {
+  "slug": "mina",
+  "wr": 46.3,
+  "pr": 3.5,
+  "matches": "630,319",
+  "tier": "B",
+  "worst_sentence": "Rem (-1.0% win rate delta), Rat King (-0.9% win rate delta), and Sinclair (-0.8% win rate delta)",
+  "worst": [
+   {
+    "name": "Rem",
+    "delta": -1.0
+   },
+   {
+    "name": "Rat King",
+    "delta": -0.9
+   },
+   {
+    "name": "Sinclair",
+    "delta": -0.8
+   }
+  ],
+  "syn_sentence": "Rat King (+3.1% win rate delta) and Graves (+1.6% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 3.1
+   },
+   {
+    "name": "Graves",
+    "delta": 1.6
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "solomon",
+    "enemy": "Solomon",
+    "hero": "Mina",
+    "wr": 58.6,
+    "delta": 2.7
+   },
+   {
+    "enemy_slug": "haze",
+    "enemy": "Haze",
+    "hero": "Mina",
+    "wr": 44.2,
+    "delta": 1.5
+   },
+   {
+    "enemy_slug": "vindicta",
+    "enemy": "Vindicta",
+    "hero": "Mina",
+    "wr": 47.0,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "vyper",
+    "enemy": "Vyper",
+    "hero": "Mina",
+    "wr": 48.1,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "yamato",
+    "enemy": "Yamato",
+    "hero": "Mina",
+    "wr": 48.2,
+    "delta": 0.7
+   },
+   {
+    "enemy_slug": "lash",
+    "enemy": "Lash",
+    "hero": "Mina",
+    "wr": 45.8,
+    "delta": 0.6
+   },
+   {
+    "enemy_slug": "calico",
+    "enemy": "Calico",
+    "hero": "Mina",
+    "wr": 46.5,
+    "delta": 0.5
+   },
+   {
+    "enemy_slug": "pocket",
+    "enemy": "Pocket",
+    "hero": "Mina",
+    "wr": 51.1,
+    "delta": 0.4
+   }
+  ]
+ },
+ "mirage": {
+  "slug": "mirage",
+  "wr": 44.2,
+  "pr": 1.3,
+  "matches": "235,340",
+  "tier": "C",
+  "worst_sentence": "Solomon (-7.4% win rate delta), Baba (-1.5% win rate delta), and Rem (-1.0% win rate delta)",
+  "worst": [
+   {
+    "name": "Solomon",
+    "delta": -7.4
+   },
+   {
+    "name": "Baba",
+    "delta": -1.5
+   },
+   {
+    "name": "Rem",
+    "delta": -1.0
+   }
+  ],
+  "syn_sentence": "Rat King (+2.1% win rate delta) and Paige (+1.9% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 2.1
+   },
+   {
+    "name": "Paige",
+    "delta": 1.9
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "haze",
+    "enemy": "Haze",
+    "hero": "Mirage",
+    "wr": 41.9,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "sinclair",
+    "enemy": "Sinclair",
+    "hero": "Mirage",
+    "wr": 49.4,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "seven",
+    "enemy": "Seven",
+    "hero": "Mirage",
+    "wr": 40.1,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "infernus",
+    "enemy": "Infernus",
+    "hero": "Mirage",
+    "wr": 46.0,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "bebop",
+    "enemy": "Bebop",
+    "hero": "Mirage",
+    "wr": 47.8,
+    "delta": 0.7
+   },
+   {
+    "enemy_slug": "dynamo",
+    "enemy": "Dynamo",
+    "hero": "Mirage",
+    "wr": 42.4,
+    "delta": 0.6
+   },
+   {
+    "enemy_slug": "pocket",
+    "enemy": "Pocket",
+    "hero": "Mirage",
+    "wr": 49.2,
+    "delta": 0.6
+   },
+   {
+    "enemy_slug": "vyper",
+    "enemy": "Vyper",
+    "hero": "Mirage",
+    "wr": 45.7,
+    "delta": 0.5
+   }
+  ]
+ },
+ "mo-and-krill": {
+  "slug": "mo-and-krill",
+  "wr": 51.7,
+  "pr": 2.5,
+  "matches": "460,505",
+  "tier": "A",
+  "worst_sentence": "Solomon (-6.5% win rate delta), Baba (-3.5% win rate delta), and Vindicta (-1.8% win rate delta)",
+  "worst": [
+   {
+    "name": "Solomon",
+    "delta": -6.5
+   },
+   {
+    "name": "Baba",
+    "delta": -3.5
+   },
+   {
+    "name": "Vindicta",
+    "delta": -1.8
+   }
+  ],
+  "syn_sentence": "Rat King (+7.2% win rate delta) and Victor (+4.6% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 7.2
+   },
+   {
+    "name": "Victor",
+    "delta": 4.6
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "pocket",
+    "enemy": "Pocket",
+    "hero": "Mo & Krill",
+    "wr": 57.8,
+    "delta": 1.7
+   },
+   {
+    "enemy_slug": "drifter",
+    "enemy": "Drifter",
+    "hero": "Mo & Krill",
+    "wr": 53.1,
+    "delta": 1.6
+   },
+   {
+    "enemy_slug": "graves",
+    "enemy": "Graves",
+    "hero": "Mo & Krill",
+    "wr": 46.7,
+    "delta": 1.5
+   },
+   {
+    "enemy_slug": "mcginnis",
+    "enemy": "McGinnis",
+    "hero": "Mo & Krill",
+    "wr": 54.4,
+    "delta": 1.3
+   },
+   {
+    "enemy_slug": "warden",
+    "enemy": "Warden",
+    "hero": "Mo & Krill",
+    "wr": 53.3,
+    "delta": 1.0
+   },
+   {
+    "enemy_slug": "sinclair",
+    "enemy": "Sinclair",
+    "hero": "Mo & Krill",
+    "wr": 56.9,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "abrams",
+    "enemy": "Abrams",
+    "hero": "Mo & Krill",
+    "wr": 51.2,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "mina",
+    "enemy": "Mina",
+    "hero": "Mo & Krill",
+    "wr": 56.2,
+    "delta": 0.8
+   }
+  ]
+ },
+ "paige": {
+  "slug": "paige",
+  "wr": 56.0,
+  "pr": 3.2,
+  "matches": "580,492",
+  "tier": "S",
+  "worst_sentence": "The Doorman (-1.6% win rate delta), Rem (-1.5% win rate delta), and Sinclair (-1.4% win rate delta)",
+  "worst": [
+   {
+    "name": "The Doorman",
+    "delta": -1.6
+   },
+   {
+    "name": "Rem",
+    "delta": -1.5
+   },
+   {
+    "name": "Sinclair",
+    "delta": -1.4
+   }
+  ],
+  "syn_sentence": "Dynamo (+7.5% win rate delta) and Graves (+6.8% win rate delta)",
+  "synergy": [
+   {
+    "name": "Dynamo",
+    "delta": 7.5
+   },
+   {
+    "name": "Graves",
+    "delta": 6.8
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "graves",
+    "enemy": "Graves",
+    "hero": "Paige",
+    "wr": 51.2,
+    "delta": 1.7
+   },
+   {
+    "enemy_slug": "shiv",
+    "enemy": "Shiv",
+    "hero": "Paige",
+    "wr": 61.4,
+    "delta": 1.0
+   },
+   {
+    "enemy_slug": "rat-king",
+    "enemy": "Rat King",
+    "hero": "Paige",
+    "wr": 48.1,
+    "delta": 1.0
+   },
+   {
+    "enemy_slug": "apollo",
+    "enemy": "Apollo",
+    "hero": "Paige",
+    "wr": 56.6,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "silver",
+    "enemy": "Silver",
+    "hero": "Paige",
+    "wr": 60.7,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "baba",
+    "enemy": "Baba",
+    "hero": "Paige",
+    "wr": 59.7,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "venator",
+    "enemy": "Venator",
+    "hero": "Paige",
+    "wr": 60.3,
+    "delta": 0.7
+   },
+   {
+    "enemy_slug": "yamato",
+    "enemy": "Yamato",
+    "hero": "Paige",
+    "wr": 57.7,
+    "delta": 0.5
+   }
+  ]
+ },
+ "paradox": {
+  "slug": "paradox",
+  "wr": 45.9,
+  "pr": 2.7,
+  "matches": "487,826",
+  "tier": "B",
+  "worst_sentence": "Victor (-2.1% win rate delta), McGinnis (-1.4% win rate delta), and Graves (-1.4% win rate delta)",
+  "worst": [
+   {
+    "name": "Victor",
+    "delta": -2.1
+   },
+   {
+    "name": "McGinnis",
+    "delta": -1.4
+   },
+   {
+    "name": "Graves",
+    "delta": -1.4
+   }
+  ],
+  "syn_sentence": "Graves (+2.2% win rate delta) and Victor (+1.1% win rate delta)",
+  "synergy": [
+   {
+    "name": "Graves",
+    "delta": 2.2
+   },
+   {
+    "name": "Victor",
+    "delta": 1.1
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "vindicta",
+    "enemy": "Vindicta",
+    "hero": "Paradox",
+    "wr": 47.1,
+    "delta": 1.5
+   },
+   {
+    "enemy_slug": "wraith",
+    "enemy": "Wraith",
+    "hero": "Paradox",
+    "wr": 46.8,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "haze",
+    "enemy": "Haze",
+    "hero": "Paradox",
+    "wr": 43.3,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "mo-and-krill",
+    "enemy": "Mo & Krill",
+    "hero": "Paradox",
+    "wr": 44.7,
+    "delta": 0.5
+   },
+   {
+    "enemy_slug": "mina",
+    "enemy": "Mina",
+    "hero": "Paradox",
+    "wr": 50.1,
+    "delta": 0.4
+   },
+   {
+    "enemy_slug": "ivy",
+    "enemy": "Ivy",
+    "hero": "Paradox",
+    "wr": 43.3,
+    "delta": 0.4
+   },
+   {
+    "enemy_slug": "shiv",
+    "enemy": "Shiv",
+    "hero": "Paradox",
+    "wr": 50.8,
+    "delta": 0.4
+   },
+   {
+    "enemy_slug": "viscous",
+    "enemy": "Viscous",
+    "hero": "Paradox",
+    "wr": 49.9,
+    "delta": 0.4
+   }
+  ]
+ },
+ "pocket": {
+  "slug": "pocket",
+  "wr": 45.6,
+  "pr": 2.1,
+  "matches": "374,489",
+  "tier": "C",
+  "worst_sentence": "Solomon (-4.0% win rate delta), Mo \\u0026 Krill (-1.7% win rate delta), and Victor (-1.4% win rate delta)",
+  "worst": [
+   {
+    "name": "Solomon",
+    "delta": -4.0
+   },
+   {
+    "name": "Krill",
+    "delta": -1.7
+   },
+   {
+    "name": "Victor",
+    "delta": -1.4
+   }
+  ],
+  "syn_sentence": "Rat King (+2.1% win rate delta) and Seven (+1.3% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 2.1
+   },
+   {
+    "name": "Seven",
+    "delta": 1.3
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "bebop",
+    "enemy": "Bebop",
+    "hero": "Pocket",
+    "wr": 49.5,
+    "delta": 1.0
+   },
+   {
+    "enemy_slug": "haze",
+    "enemy": "Haze",
+    "hero": "Pocket",
+    "wr": 43.0,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "infernus",
+    "enemy": "Infernus",
+    "hero": "Pocket",
+    "wr": 47.3,
+    "delta": 0.7
+   },
+   {
+    "enemy_slug": "lash",
+    "enemy": "Lash",
+    "hero": "Pocket",
+    "wr": 45.2,
+    "delta": 0.7
+   },
+   {
+    "enemy_slug": "paige",
+    "enemy": "Paige",
+    "hero": "Pocket",
+    "wr": 40.2,
+    "delta": 0.5
+   },
+   {
+    "enemy_slug": "the-doorman",
+    "enemy": "The Doorman",
+    "hero": "Pocket",
+    "wr": 50.3,
+    "delta": 0.4
+   },
+   {
+    "enemy_slug": "viscous",
+    "enemy": "Viscous",
+    "hero": "Pocket",
+    "wr": 49.6,
+    "delta": 0.4
+   },
+   {
+    "enemy_slug": "yamato",
+    "enemy": "Yamato",
+    "hero": "Pocket",
+    "wr": 47.2,
+    "delta": 0.4
+   }
+  ]
+ },
+ "rat-king": {
+  "slug": "rat-king",
+  "wr": 58.8,
+  "pr": 2.4,
+  "matches": "433,268",
+  "tier": "S+",
+  "worst_sentence": "Sinclair (-5.0% win rate delta), Shiv (-2.8% win rate delta), and Baba (-2.3% win rate delta)",
+  "worst": [
+   {
+    "name": "Sinclair",
+    "delta": -5.0
+   },
+   {
+    "name": "Shiv",
+    "delta": -2.8
+   },
+   {
+    "name": "Baba",
+    "delta": -2.3
+   }
+  ],
+  "syn_sentence": "Victor (+10.2% win rate delta) and Abrams (+7.6% win rate delta)",
+  "synergy": [
+   {
+    "name": "Victor",
+    "delta": 10.2
+   },
+   {
+    "name": "Abrams",
+    "delta": 7.6
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "warden",
+    "enemy": "Warden",
+    "hero": "Rat King",
+    "wr": 63.6,
+    "delta": 4.2
+   },
+   {
+    "enemy_slug": "the-doorman",
+    "enemy": "The Doorman",
+    "hero": "Rat King",
+    "wr": 64.9,
+    "delta": 1.9
+   },
+   {
+    "enemy_slug": "graves",
+    "enemy": "Graves",
+    "hero": "Rat King",
+    "wr": 54.3,
+    "delta": 1.9
+   },
+   {
+    "enemy_slug": "lash",
+    "enemy": "Lash",
+    "hero": "Rat King",
+    "wr": 59.5,
+    "delta": 1.7
+   },
+   {
+    "enemy_slug": "paradox",
+    "enemy": "Paradox",
+    "hero": "Rat King",
+    "wr": 64.1,
+    "delta": 1.4
+   },
+   {
+    "enemy_slug": "mcginnis",
+    "enemy": "McGinnis",
+    "hero": "Rat King",
+    "wr": 61.4,
+    "delta": 1.3
+   },
+   {
+    "enemy_slug": "pocket",
+    "enemy": "Pocket",
+    "hero": "Rat King",
+    "wr": 64.3,
+    "delta": 1.2
+   },
+   {
+    "enemy_slug": "grey-talon",
+    "enemy": "Grey Talon",
+    "hero": "Rat King",
+    "wr": 62.5,
+    "delta": 1.1
+   }
+  ]
+ },
+ "rem": {
+  "slug": "rem",
+  "wr": 47.0,
+  "pr": 3.4,
+  "matches": "617,908",
+  "tier": "B",
+  "worst_sentence": "Seven (-1.2% win rate delta), Solomon (-0.8% win rate delta), and Abrams (-0.6% win rate delta)",
+  "worst": [
+   {
+    "name": "Seven",
+    "delta": -1.2
+   },
+   {
+    "name": "Solomon",
+    "delta": -0.8
+   },
+   {
+    "name": "Abrams",
+    "delta": -0.6
+   }
+  ],
+  "syn_sentence": "Rat King (+3.2% win rate delta) and Paige (+3.2% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 3.2
+   },
+   {
+    "name": "Paige",
+    "delta": 3.2
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "paige",
+    "enemy": "Paige",
+    "hero": "Rem",
+    "wr": 42.6,
+    "delta": 1.5
+   },
+   {
+    "enemy_slug": "ivy",
+    "enemy": "Ivy",
+    "hero": "Rem",
+    "wr": 45.4,
+    "delta": 1.4
+   },
+   {
+    "enemy_slug": "viscous",
+    "enemy": "Viscous",
+    "hero": "Rem",
+    "wr": 51.8,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "mirage",
+    "enemy": "Mirage",
+    "hero": "Rem",
+    "wr": 53.9,
+    "delta": 1.0
+   },
+   {
+    "enemy_slug": "mina",
+    "enemy": "Mina",
+    "hero": "Rem",
+    "wr": 51.7,
+    "delta": 1.0
+   },
+   {
+    "enemy_slug": "kelvin",
+    "enemy": "Kelvin",
+    "hero": "Rem",
+    "wr": 44.1,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "holliday",
+    "enemy": "Holliday",
+    "hero": "Rem",
+    "wr": 50.3,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "paradox",
+    "enemy": "Paradox",
+    "hero": "Rem",
+    "wr": 52.0,
+    "delta": 0.9
+   }
+  ]
+ },
+ "seven": {
+  "slug": "seven",
+  "wr": 55.1,
+  "pr": 2.9,
+  "matches": "530,367",
+  "tier": "S",
+  "worst_sentence": "Infernus (-1.6% win rate delta), Calico (-1.3% win rate delta), and Apollo (-1.1% win rate delta)",
+  "worst": [
+   {
+    "name": "Infernus",
+    "delta": -1.6
+   },
+   {
+    "name": "Calico",
+    "delta": -1.3
+   },
+   {
+    "name": "Apollo",
+    "delta": -1.1
+   }
+  ],
+  "syn_sentence": "Haze (+6.1% win rate delta) and Rat King (+5.8% win rate delta)",
+  "synergy": [
+   {
+    "name": "Haze",
+    "delta": 6.1
+   },
+   {
+    "name": "Rat King",
+    "delta": 5.8
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "mcginnis",
+    "enemy": "McGinnis",
+    "hero": "Seven",
+    "wr": 58.4,
+    "delta": 1.9
+   },
+   {
+    "enemy_slug": "graves",
+    "enemy": "Graves",
+    "hero": "Seven",
+    "wr": 50.1,
+    "delta": 1.5
+   },
+   {
+    "enemy_slug": "rem",
+    "enemy": "Rem",
+    "hero": "Seven",
+    "wr": 59.2,
+    "delta": 1.2
+   },
+   {
+    "enemy_slug": "silver",
+    "enemy": "Silver",
+    "hero": "Seven",
+    "wr": 60.1,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "dynamo",
+    "enemy": "Dynamo",
+    "hero": "Seven",
+    "wr": 53.6,
+    "delta": 1.0
+   },
+   {
+    "enemy_slug": "mo-and-krill",
+    "enemy": "Mo & Krill",
+    "hero": "Seven",
+    "wr": 54.2,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "baba",
+    "enemy": "Baba",
+    "hero": "Seven",
+    "wr": 58.8,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "kelvin",
+    "enemy": "Kelvin",
+    "hero": "Seven",
+    "wr": 52.0,
+    "delta": 0.7
+   }
+  ]
+ },
+ "shiv": {
+  "slug": "shiv",
+  "wr": 45.5,
+  "pr": 2.8,
+  "matches": "514,868",
+  "tier": "B",
+  "worst_sentence": "Solomon (-2.2% win rate delta), Baba (-1.8% win rate delta), and Haze (-1.4% win rate delta)",
+  "worst": [
+   {
+    "name": "Solomon",
+    "delta": -2.2
+   },
+   {
+    "name": "Baba",
+    "delta": -1.8
+   },
+   {
+    "name": "Haze",
+    "delta": -1.4
+   }
+  ],
+  "syn_sentence": "Rat King (+5.3% win rate delta) and Victor (+1.7% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 5.3
+   },
+   {
+    "name": "Victor",
+    "delta": 1.7
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "rat-king",
+    "enemy": "Rat King",
+    "hero": "Shiv",
+    "wr": 39.7,
+    "delta": 2.8
+   },
+   {
+    "enemy_slug": "mo-and-krill",
+    "enemy": "Mo & Krill",
+    "hero": "Shiv",
+    "wr": 45.2,
+    "delta": 1.4
+   },
+   {
+    "enemy_slug": "victor",
+    "enemy": "Victor",
+    "hero": "Shiv",
+    "wr": 41.7,
+    "delta": 1.4
+   },
+   {
+    "enemy_slug": "warden",
+    "enemy": "Warden",
+    "hero": "Shiv",
+    "wr": 47.2,
+    "delta": 1.2
+   },
+   {
+    "enemy_slug": "abrams",
+    "enemy": "Abrams",
+    "hero": "Shiv",
+    "wr": 45.3,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "lady-geist",
+    "enemy": "Lady Geist",
+    "hero": "Shiv",
+    "wr": 45.5,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "apollo",
+    "enemy": "Apollo",
+    "hero": "Shiv",
+    "wr": 45.9,
+    "delta": 0.7
+   },
+   {
+    "enemy_slug": "bebop",
+    "enemy": "Bebop",
+    "hero": "Shiv",
+    "wr": 49.1,
+    "delta": 0.7
+   }
+  ]
+ },
+ "silver": {
+  "slug": "silver",
+  "wr": 46.0,
+  "pr": 2.5,
+  "matches": "450,488",
+  "tier": "B",
+  "worst_sentence": "Solomon (-2.1% win rate delta), Dynamo (-1.7% win rate delta), and Graves (-1.5% win rate delta)",
+  "worst": [
+   {
+    "name": "Solomon",
+    "delta": -2.1
+   },
+   {
+    "name": "Dynamo",
+    "delta": -1.7
+   },
+   {
+    "name": "Graves",
+    "delta": -1.5
+   }
+  ],
+  "syn_sentence": "Rat King (+4.9% win rate delta) and Paige (+2.7% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 4.9
+   },
+   {
+    "name": "Paige",
+    "delta": 2.7
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "kelvin",
+    "enemy": "Kelvin",
+    "hero": "Silver",
+    "wr": 43.5,
+    "delta": 1.3
+   },
+   {
+    "enemy_slug": "calico",
+    "enemy": "Calico",
+    "hero": "Silver",
+    "wr": 46.8,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "vindicta",
+    "enemy": "Vindicta",
+    "hero": "Silver",
+    "wr": 46.8,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "mo-and-krill",
+    "enemy": "Mo & Krill",
+    "hero": "Silver",
+    "wr": 45.4,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "yamato",
+    "enemy": "Yamato",
+    "hero": "Silver",
+    "wr": 48.2,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "paradox",
+    "enemy": "Paradox",
+    "hero": "Silver",
+    "wr": 50.9,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "holliday",
+    "enemy": "Holliday",
+    "hero": "Silver",
+    "wr": 49.0,
+    "delta": 0.7
+   },
+   {
+    "enemy_slug": "viscous",
+    "enemy": "Viscous",
+    "hero": "Silver",
+    "wr": 50.3,
+    "delta": 0.7
+   }
+  ]
+ },
+ "sinclair": {
+  "slug": "sinclair",
+  "wr": 45.7,
+  "pr": 1.5,
+  "matches": "282,156",
+  "tier": "C",
+  "worst_sentence": "McGinnis (-2.4% win rate delta), Billy (-1.5% win rate delta), and Drifter (-1.3% win rate delta)",
+  "worst": [
+   {
+    "name": "McGinnis",
+    "delta": -2.4
+   },
+   {
+    "name": "Billy",
+    "delta": -1.5
+   },
+   {
+    "name": "Drifter",
+    "delta": -1.3
+   }
+  ],
+  "syn_sentence": "Rat King (+2.6% win rate delta) and Graves (+2.0% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 2.6
+   },
+   {
+    "name": "Graves",
+    "delta": 2.0
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "rat-king",
+    "enemy": "Rat King",
+    "hero": "Sinclair",
+    "wr": 42.0,
+    "delta": 5.0
+   },
+   {
+    "enemy_slug": "paige",
+    "enemy": "Paige",
+    "hero": "Sinclair",
+    "wr": 41.3,
+    "delta": 1.4
+   },
+   {
+    "enemy_slug": "the-doorman",
+    "enemy": "The Doorman",
+    "hero": "Sinclair",
+    "wr": 51.2,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "wraith",
+    "enemy": "Wraith",
+    "hero": "Sinclair",
+    "wr": 46.7,
+    "delta": 1.0
+   },
+   {
+    "enemy_slug": "celeste",
+    "enemy": "Celeste",
+    "hero": "Sinclair",
+    "wr": 47.0,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "solomon",
+    "enemy": "Solomon",
+    "hero": "Sinclair",
+    "wr": 56.2,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "seven",
+    "enemy": "Seven",
+    "hero": "Sinclair",
+    "wr": 41.6,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "mina",
+    "enemy": "Mina",
+    "hero": "Sinclair",
+    "wr": 50.3,
+    "delta": 0.8
+   }
+  ]
+ },
+ "solomon": {
+  "slug": "solomon",
+  "wr": 40.5,
+  "pr": 0.0,
+  "matches": "2,951",
+  "tier": "D",
+  "worst_sentence": "McGinnis (-13.4% win rate delta), Grey Talon (-4.9% win rate delta), and Baba (-4.4% win rate delta)",
+  "worst": [
+   {
+    "name": "McGinnis",
+    "delta": -13.4
+   },
+   {
+    "name": "Grey Talon",
+    "delta": -4.9
+   },
+   {
+    "name": "Baba",
+    "delta": -4.4
+   }
+  ],
+  "syn_sentence": "Seven (+4.8% win rate delta) and Haze (+3.5% win rate delta)",
+  "synergy": [
+   {
+    "name": "Seven",
+    "delta": 4.8
+   },
+   {
+    "name": "Haze",
+    "delta": 3.5
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "victor",
+    "enemy": "Victor",
+    "hero": "Solomon",
+    "wr": 44.5,
+    "delta": 9.0
+   },
+   {
+    "enemy_slug": "mirage",
+    "enemy": "Mirage",
+    "hero": "Solomon",
+    "wr": 53.6,
+    "delta": 7.4
+   },
+   {
+    "enemy_slug": "yamato",
+    "enemy": "Yamato",
+    "hero": "Solomon",
+    "wr": 49.1,
+    "delta": 7.4
+   },
+   {
+    "enemy_slug": "mo-and-krill",
+    "enemy": "Mo & Krill",
+    "hero": "Solomon",
+    "wr": 45.3,
+    "delta": 6.5
+   },
+   {
+    "enemy_slug": "venator",
+    "enemy": "Venator",
+    "hero": "Solomon",
+    "wr": 50.1,
+    "delta": 6.0
+   },
+   {
+    "enemy_slug": "bebop",
+    "enemy": "Bebop",
+    "hero": "Solomon",
+    "wr": 48.9,
+    "delta": 5.6
+   },
+   {
+    "enemy_slug": "dynamo",
+    "enemy": "Dynamo",
+    "hero": "Solomon",
+    "wr": 43.3,
+    "delta": 5.2
+   },
+   {
+    "enemy_slug": "ivy",
+    "enemy": "Ivy",
+    "hero": "Solomon",
+    "wr": 42.6,
+    "delta": 5.0
+   }
+  ]
+ },
+ "the-doorman": {
+  "slug": "the-doorman",
+  "wr": 45.7,
+  "pr": 1.7,
+  "matches": "301,997",
+  "tier": "C",
+  "worst_sentence": "Rat King (-1.9% win rate delta), Lady Geist (-1.5% win rate delta), and Kelvin (-1.3% win rate delta)",
+  "worst": [
+   {
+    "name": "Rat King",
+    "delta": -1.9
+   },
+   {
+    "name": "Lady Geist",
+    "delta": -1.5
+   },
+   {
+    "name": "Kelvin",
+    "delta": -1.3
+   }
+  ],
+  "syn_sentence": "Seven (+3.1% win rate delta) and Graves (+2.1% win rate delta)",
+  "synergy": [
+   {
+    "name": "Seven",
+    "delta": 3.1
+   },
+   {
+    "name": "Graves",
+    "delta": 2.1
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "solomon",
+    "enemy": "Solomon",
+    "hero": "The Doorman",
+    "wr": 58.9,
+    "delta": 3.7
+   },
+   {
+    "enemy_slug": "paige",
+    "enemy": "Paige",
+    "hero": "The Doorman",
+    "wr": 41.3,
+    "delta": 1.5
+   },
+   {
+    "enemy_slug": "haze",
+    "enemy": "Haze",
+    "hero": "The Doorman",
+    "wr": 43.5,
+    "delta": 1.3
+   },
+   {
+    "enemy_slug": "vindicta",
+    "enemy": "Vindicta",
+    "hero": "The Doorman",
+    "wr": 46.5,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "warden",
+    "enemy": "Warden",
+    "hero": "The Doorman",
+    "wr": 47.2,
+    "delta": 1.0
+   },
+   {
+    "enemy_slug": "shiv",
+    "enemy": "Shiv",
+    "hero": "The Doorman",
+    "wr": 51.0,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "silver",
+    "enemy": "Silver",
+    "hero": "The Doorman",
+    "wr": 50.5,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "mirage",
+    "enemy": "Mirage",
+    "hero": "The Doorman",
+    "wr": 52.3,
+    "delta": 0.8
+   }
+  ]
+ },
+ "venator": {
+  "slug": "venator",
+  "wr": 46.3,
+  "pr": 3.7,
+  "matches": "672,865",
+  "tier": "B",
+  "worst_sentence": "Solomon (-6.0% win rate delta), Dynamo (-1.2% win rate delta), and Lady Geist (-0.8% win rate delta)",
+  "worst": [
+   {
+    "name": "Solomon",
+    "delta": -6.0
+   },
+   {
+    "name": "Dynamo",
+    "delta": -1.2
+   },
+   {
+    "name": "Lady Geist",
+    "delta": -0.8
+   }
+  ],
+  "syn_sentence": "Rat King (+3.0% win rate delta) and Paige (+1.5% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 3.0
+   },
+   {
+    "name": "Paige",
+    "delta": 1.5
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "baba",
+    "enemy": "Baba",
+    "hero": "Venator",
+    "wr": 50.9,
+    "delta": 1.6
+   },
+   {
+    "enemy_slug": "haze",
+    "enemy": "Haze",
+    "hero": "Venator",
+    "wr": 44.2,
+    "delta": 1.4
+   },
+   {
+    "enemy_slug": "vyper",
+    "enemy": "Vyper",
+    "hero": "Venator",
+    "wr": 48.4,
+    "delta": 1.2
+   },
+   {
+    "enemy_slug": "vindicta",
+    "enemy": "Vindicta",
+    "hero": "Venator",
+    "wr": 47.1,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "the-doorman",
+    "enemy": "The Doorman",
+    "hero": "Venator",
+    "wr": 51.5,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "calico",
+    "enemy": "Calico",
+    "hero": "Venator",
+    "wr": 46.7,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "wraith",
+    "enemy": "Wraith",
+    "hero": "Venator",
+    "wr": 46.8,
+    "delta": 0.6
+   },
+   {
+    "enemy_slug": "yamato",
+    "enemy": "Yamato",
+    "hero": "Venator",
+    "wr": 48.1,
+    "delta": 0.6
+   }
+  ]
+ },
+ "victor": {
+  "slug": "victor",
+  "wr": 55.2,
+  "pr": 2.6,
+  "matches": "482,532",
+  "tier": "S",
+  "worst_sentence": "Solomon (-9.0% win rate delta), Baba (-3.9% win rate delta), and Shiv (-1.4% win rate delta)",
+  "worst": [
+   {
+    "name": "Solomon",
+    "delta": -9.0
+   },
+   {
+    "name": "Baba",
+    "delta": -3.9
+   },
+   {
+    "name": "Shiv",
+    "delta": -1.4
+   }
+  ],
+  "syn_sentence": "Rat King (+10.2% win rate delta) and Paige (+6.0% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 10.2
+   },
+   {
+    "name": "Paige",
+    "delta": 6.0
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "paradox",
+    "enemy": "Paradox",
+    "hero": "Victor",
+    "wr": 61.2,
+    "delta": 2.0
+   },
+   {
+    "enemy_slug": "holliday",
+    "enemy": "Holliday",
+    "hero": "Victor",
+    "wr": 59.2,
+    "delta": 1.8
+   },
+   {
+    "enemy_slug": "pocket",
+    "enemy": "Pocket",
+    "hero": "Victor",
+    "wr": 60.9,
+    "delta": 1.4
+   },
+   {
+    "enemy_slug": "dynamo",
+    "enemy": "Dynamo",
+    "hero": "Victor",
+    "wr": 53.9,
+    "delta": 1.2
+   },
+   {
+    "enemy_slug": "apollo",
+    "enemy": "Apollo",
+    "hero": "Victor",
+    "wr": 55.9,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "lady-geist",
+    "enemy": "Lady Geist",
+    "hero": "Victor",
+    "wr": 55.0,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "graves",
+    "enemy": "Graves",
+    "hero": "Victor",
+    "wr": 49.6,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "lash",
+    "enemy": "Lash",
+    "hero": "Victor",
+    "wr": 54.9,
+    "delta": 0.8
+   }
+  ]
+ },
+ "vindicta": {
+  "slug": "vindicta",
+  "wr": 50.3,
+  "pr": 2.7,
+  "matches": "486,989",
+  "tier": "A",
+  "worst_sentence": "Solomon (-2.7% win rate delta), Apollo (-2.0% win rate delta), and Paradox (-1.5% win rate delta)",
+  "worst": [
+   {
+    "name": "Solomon",
+    "delta": -2.7
+   },
+   {
+    "name": "Apollo",
+    "delta": -2.0
+   },
+   {
+    "name": "Paradox",
+    "delta": -1.5
+   }
+  ],
+  "syn_sentence": "Rat King (+6.0% win rate delta) and Graves (+3.3% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 6.0
+   },
+   {
+    "name": "Graves",
+    "delta": 3.3
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "baba",
+    "enemy": "Baba",
+    "hero": "Vindicta",
+    "wr": 55.6,
+    "delta": 2.3
+   },
+   {
+    "enemy_slug": "mo-and-krill",
+    "enemy": "Mo & Krill",
+    "hero": "Vindicta",
+    "wr": 50.4,
+    "delta": 1.8
+   },
+   {
+    "enemy_slug": "pocket",
+    "enemy": "Pocket",
+    "hero": "Vindicta",
+    "wr": 56.1,
+    "delta": 1.3
+   },
+   {
+    "enemy_slug": "rat-king",
+    "enemy": "Rat King",
+    "hero": "Vindicta",
+    "wr": 42.7,
+    "delta": 1.2
+   },
+   {
+    "enemy_slug": "warden",
+    "enemy": "Warden",
+    "hero": "Vindicta",
+    "wr": 52.0,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "dynamo",
+    "enemy": "Dynamo",
+    "hero": "Vindicta",
+    "wr": 48.8,
+    "delta": 1.0
+   },
+   {
+    "enemy_slug": "seven",
+    "enemy": "Seven",
+    "hero": "Vindicta",
+    "wr": 46.0,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "victor",
+    "enemy": "Victor",
+    "hero": "Vindicta",
+    "wr": 45.9,
+    "delta": 0.7
+   }
+  ]
+ },
+ "viscous": {
+  "slug": "viscous",
+  "wr": 46.4,
+  "pr": 1.6,
+  "matches": "284,231",
+  "tier": "C",
+  "worst_sentence": "Baba (-2.8% win rate delta), Rem (-1.1% win rate delta), and Haze (-1.0% win rate delta)",
+  "worst": [
+   {
+    "name": "Baba",
+    "delta": -2.8
+   },
+   {
+    "name": "Rem",
+    "delta": -1.1
+   },
+   {
+    "name": "Haze",
+    "delta": -1.0
+   }
+  ],
+  "syn_sentence": "Rat King (+3.4% win rate delta) and Paige (+3.0% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 3.4
+   },
+   {
+    "name": "Paige",
+    "delta": 3.0
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "solomon",
+    "enemy": "Solomon",
+    "hero": "Viscous",
+    "wr": 58.3,
+    "delta": 2.3
+   },
+   {
+    "enemy_slug": "kelvin",
+    "enemy": "Kelvin",
+    "hero": "Viscous",
+    "wr": 44.0,
+    "delta": 1.4
+   },
+   {
+    "enemy_slug": "paige",
+    "enemy": "Paige",
+    "hero": "Viscous",
+    "wr": 41.7,
+    "delta": 1.2
+   },
+   {
+    "enemy_slug": "bebop",
+    "enemy": "Bebop",
+    "hero": "Viscous",
+    "wr": 50.4,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "ivy",
+    "enemy": "Ivy",
+    "hero": "Viscous",
+    "wr": 44.4,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "yamato",
+    "enemy": "Yamato",
+    "hero": "Viscous",
+    "wr": 48.6,
+    "delta": 1.0
+   },
+   {
+    "enemy_slug": "infernus",
+    "enemy": "Infernus",
+    "hero": "Viscous",
+    "wr": 48.1,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "mina",
+    "enemy": "Mina",
+    "hero": "Viscous",
+    "wr": 50.7,
+    "delta": 0.6
+   }
+  ]
+ },
+ "vyper": {
+  "slug": "vyper",
+  "wr": 49.1,
+  "pr": 1.5,
+  "matches": "278,697",
+  "tier": "B",
+  "worst_sentence": "Solomon (-4.4% win rate delta), Billy (-1.6% win rate delta), and Venator (-1.2% win rate delta)",
+  "worst": [
+   {
+    "name": "Solomon",
+    "delta": -4.4
+   },
+   {
+    "name": "Billy",
+    "delta": -1.6
+   },
+   {
+    "name": "Venator",
+    "delta": -1.2
+   }
+  ],
+  "syn_sentence": "Paige (+3.9% win rate delta) and Seven (+3.0% win rate delta)",
+  "synergy": [
+   {
+    "name": "Paige",
+    "delta": 3.9
+   },
+   {
+    "name": "Seven",
+    "delta": 3.0
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "haze",
+    "enemy": "Haze",
+    "hero": "Vyper",
+    "wr": 47.5,
+    "delta": 1.9
+   },
+   {
+    "enemy_slug": "kelvin",
+    "enemy": "Kelvin",
+    "hero": "Vyper",
+    "wr": 46.6,
+    "delta": 1.4
+   },
+   {
+    "enemy_slug": "ivy",
+    "enemy": "Ivy",
+    "hero": "Vyper",
+    "wr": 47.4,
+    "delta": 1.4
+   },
+   {
+    "enemy_slug": "abrams",
+    "enemy": "Abrams",
+    "hero": "Vyper",
+    "wr": 48.9,
+    "delta": 1.2
+   },
+   {
+    "enemy_slug": "grey-talon",
+    "enemy": "Grey Talon",
+    "hero": "Vyper",
+    "wr": 52.9,
+    "delta": 1.2
+   },
+   {
+    "enemy_slug": "paradox",
+    "enemy": "Paradox",
+    "hero": "Vyper",
+    "wr": 54.1,
+    "delta": 1.0
+   },
+   {
+    "enemy_slug": "drifter",
+    "enemy": "Drifter",
+    "hero": "Vyper",
+    "wr": 49.7,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "holliday",
+    "enemy": "Holliday",
+    "hero": "Vyper",
+    "wr": 52.2,
+    "delta": 0.9
+   }
+  ]
+ },
+ "warden": {
+  "slug": "warden",
+  "wr": 49.4,
+  "pr": 1.7,
+  "matches": "307,845",
+  "tier": "B",
+  "worst_sentence": "Baba (-5.9% win rate delta), Rat King (-4.2% win rate delta), and Shiv (-1.2% win rate delta)",
+  "worst": [
+   {
+    "name": "Baba",
+    "delta": -5.9
+   },
+   {
+    "name": "Rat King",
+    "delta": -4.2
+   },
+   {
+    "name": "Shiv",
+    "delta": -1.2
+   }
+  ],
+  "syn_sentence": "Kelvin (+3.9% win rate delta) and Victor (+3.3% win rate delta)",
+  "synergy": [
+   {
+    "name": "Kelvin",
+    "delta": 3.9
+   },
+   {
+    "name": "Victor",
+    "delta": 3.3
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "solomon",
+    "enemy": "Solomon",
+    "hero": "Warden",
+    "wr": 60.7,
+    "delta": 1.8
+   },
+   {
+    "enemy_slug": "sinclair",
+    "enemy": "Sinclair",
+    "hero": "Warden",
+    "wr": 55.0,
+    "delta": 1.3
+   },
+   {
+    "enemy_slug": "pocket",
+    "enemy": "Pocket",
+    "hero": "Warden",
+    "wr": 54.9,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "kelvin",
+    "enemy": "Kelvin",
+    "hero": "Warden",
+    "wr": 46.4,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "drifter",
+    "enemy": "Drifter",
+    "hero": "Warden",
+    "wr": 49.9,
+    "delta": 0.7
+   },
+   {
+    "enemy_slug": "bebop",
+    "enemy": "Bebop",
+    "hero": "Warden",
+    "wr": 53.1,
+    "delta": 0.7
+   },
+   {
+    "enemy_slug": "paige",
+    "enemy": "Paige",
+    "hero": "Warden",
+    "wr": 44.0,
+    "delta": 0.6
+   },
+   {
+    "enemy_slug": "paradox",
+    "enemy": "Paradox",
+    "hero": "Warden",
+    "wr": 54.0,
+    "delta": 0.5
+   }
+  ]
+ },
+ "wraith": {
+  "slug": "wraith",
+  "wr": 50.1,
+  "pr": 2.8,
+  "matches": "510,588",
+  "tier": "A",
+  "worst_sentence": "Sinclair (-1.0% win rate delta), Calico (-1.0% win rate delta), and Paradox (-0.9% win rate delta)",
+  "worst": [
+   {
+    "name": "Sinclair",
+    "delta": -1.0
+   },
+   {
+    "name": "Calico",
+    "delta": -1.0
+   },
+   {
+    "name": "Paradox",
+    "delta": -0.9
+   }
+  ],
+  "syn_sentence": "Rat King (+5.6% win rate delta) and Paige (+3.5% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 5.6
+   },
+   {
+    "name": "Paige",
+    "delta": 3.5
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "solomon",
+    "enemy": "Solomon",
+    "hero": "Wraith",
+    "wr": 63.2,
+    "delta": 3.6
+   },
+   {
+    "enemy_slug": "baba",
+    "enemy": "Baba",
+    "hero": "Wraith",
+    "wr": 54.8,
+    "delta": 1.8
+   },
+   {
+    "enemy_slug": "rat-king",
+    "enemy": "Rat King",
+    "hero": "Wraith",
+    "wr": 43.0,
+    "delta": 1.7
+   },
+   {
+    "enemy_slug": "mo-and-krill",
+    "enemy": "Mo & Krill",
+    "hero": "Wraith",
+    "wr": 49.6,
+    "delta": 1.2
+   },
+   {
+    "enemy_slug": "graves",
+    "enemy": "Graves",
+    "hero": "Wraith",
+    "wr": 44.7,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "dynamo",
+    "enemy": "Dynamo",
+    "hero": "Wraith",
+    "wr": 48.5,
+    "delta": 0.9
+   },
+   {
+    "enemy_slug": "seven",
+    "enemy": "Seven",
+    "hero": "Wraith",
+    "wr": 45.7,
+    "delta": 0.8
+   },
+   {
+    "enemy_slug": "kelvin",
+    "enemy": "Kelvin",
+    "hero": "Wraith",
+    "wr": 46.9,
+    "delta": 0.7
+   }
+  ]
+ },
+ "yamato": {
+  "slug": "yamato",
+  "wr": 48.7,
+  "pr": 2.3,
+  "matches": "413,282",
+  "tier": "B",
+  "worst_sentence": "Solomon (-7.4% win rate delta), Baba (-2.8% win rate delta), and Ivy (-1.0% win rate delta)",
+  "worst": [
+   {
+    "name": "Solomon",
+    "delta": -7.4
+   },
+   {
+    "name": "Baba",
+    "delta": -2.8
+   },
+   {
+    "name": "Ivy",
+    "delta": -1.0
+   }
+  ],
+  "syn_sentence": "Rat King (+6.6% win rate delta) and Paige (+2.5% win rate delta)",
+  "synergy": [
+   {
+    "name": "Rat King",
+    "delta": 6.6
+   },
+   {
+    "name": "Paige",
+    "delta": 2.5
+   }
+  ],
+  "best_matchups": [
+   {
+    "enemy_slug": "paradox",
+    "enemy": "Paradox",
+    "hero": "Yamato",
+    "wr": 54.1,
+    "delta": 1.3
+   },
+   {
+    "enemy_slug": "lash",
+    "enemy": "Lash",
+    "hero": "Yamato",
+    "wr": 48.8,
+    "delta": 1.2
+   },
+   {
+    "enemy_slug": "vindicta",
+    "enemy": "Vindicta",
+    "hero": "Yamato",
+    "wr": 49.5,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "rat-king",
+    "enemy": "Rat King",
+    "hero": "Yamato",
+    "wr": 41.1,
+    "delta": 1.1
+   },
+   {
+    "enemy_slug": "grey-talon",
+    "enemy": "Grey Talon",
+    "hero": "Yamato",
+    "wr": 52.0,
+    "delta": 0.7
+   },
+   {
+    "enemy_slug": "haze",
+    "enemy": "Haze",
+    "hero": "Yamato",
+    "wr": 45.8,
+    "delta": 0.7
+   },
+   {
+    "enemy_slug": "infernus",
+    "enemy": "Infernus",
+    "hero": "Yamato",
+    "wr": 50.3,
+    "delta": 0.6
+   },
+   {
+    "enemy_slug": "warden",
+    "enemy": "Warden",
+    "hero": "Yamato",
+    "wr": 49.8,
+    "delta": 0.5
+   }
+  ]
+ }
+}
